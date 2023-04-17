@@ -1,0 +1,24 @@
+
+.primary-btn {
+  background-color: #3199e9;
+  color: white;
+  font-weight: 600;
+  border-radius: 100px;
+  padding: 12px 32px 14px 32px;
+  border: none;
+}
+.primary-btn-outlined {
+  @extend .primary-btn;
+  background: transparent;
+  border: 1px solid #3199e9;
+  color: #3199e9;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #2a2a2a;
+  font-weight: 700;
+}
+p {
+  color: #717171;
+}
+
+@import "./home-card.scss";
