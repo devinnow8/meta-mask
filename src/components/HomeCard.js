@@ -16,7 +16,7 @@ const HomeCard = (props) => {
     <section className="home-card">
       <Container>
         <Row className="justify-content-center">
-          <Col md={6} lg={6}>
+          <Col md={10} lg={6}>
             <Card>
               <Slider {...settings}>
                 {homeCardSlider.map(({ title, content, img }) => (
