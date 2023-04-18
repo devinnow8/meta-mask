@@ -12,10 +12,12 @@
     "ethers": "^6.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
     "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
     "reactstrap": "^9.1.9",
     "sass": "^1.62.0",
-    "swiper": "^9.2.2",
+    "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4",
     "web3": "^1.9.0",
     "web3-react": "^5.0.5"
